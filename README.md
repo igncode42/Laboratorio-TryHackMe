@@ -1,4 +1,4 @@
-# Laboratorio TryHackMe: Bounty-Hacker 
+# Laboratorio TryHackMe
 
 - Este informe documenta los pasos seguidos y los resultados obtenidos durante la resolución del reto "Bounty Hacker" en la plataforma TryHackMe. El objetivo principal fue identificar servicios abiertos, obtener credenciales mediante ataques de fuerza bruta y acceder a la información confidencial almacenada en la máquina objetivo.
 
