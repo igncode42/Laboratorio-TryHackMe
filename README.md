@@ -22,8 +22,8 @@
 
 # 1. Escaneando Redes con Nmap
 
-- nmap -Pn -n --top-ports 1000 --open -T5 10.10.130.95
-<img src="Nmap.png">
+- nmap -Pn -n --top-ports 1000 --open -T5 10.10......
+<img src="nmap.png">
 
 # Servicio ftp 
 
